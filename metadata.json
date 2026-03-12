@@ -1,0 +1,5 @@
+{
+  "name": "GitProfile Studio",
+  "description": "A drag-and-drop editor to generate professional GitHub profile READMEs without writing code.",
+  "requestFramePermissions": []
+}
